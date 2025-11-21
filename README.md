@@ -8,7 +8,7 @@
 
 I recommend running and testing everything in WSL or Linux, because the OpenCilk version requires clang++ and may not compile correctly on native Windows.
 
-# Dependencies
+## Dependencies
 Before compiling the project, the following software must be installed:
 
 - make
