@@ -5,7 +5,6 @@
 #include <algorithm>
 #include <chrono>
 
-
  struct CSRMatrix
 {   
     std::vector<int> row_ptr;     
@@ -176,4 +175,5 @@ int main(int argc, char* argv[])
 
 // Compile: g++ -O3 serial.cpp -o serial
 // Run: ./serial <mtx_file>
+
 
